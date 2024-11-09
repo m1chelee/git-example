@@ -1,3 +1,3 @@
 # git-example
-Hello people!
+Hello from new branch
 
